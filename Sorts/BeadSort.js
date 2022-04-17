@@ -4,6 +4,7 @@
  * This algorithm was inspired from natural phenomena and was designed keeping in mind objects (or beads) falling under
  * the influence of gravity.
  *
+ *
  * NOTE: It only works for arrays of positive integers.
  *
  * Wikipedia: https://en.wikipedia.org/wiki/Bead_sort
